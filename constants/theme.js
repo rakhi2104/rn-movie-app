@@ -1,8 +1,10 @@
 export const palette = {
-  primaryColor: "#019966",
+  primaryColor: "#90cea1",
   secondaryColor: "#FFD700",
-  bgColor: "#1A202C",
-  bgCardColor: "#2D3748",
+  bgColor: "#0d253f",
+  bgColorDarker: "#040c15",
+  bgCardColor: "#008EB5",
+  bgCardColorDarker: "#006682",
   fontColor: "#EDF2F7",
   fontSecondaryColor: "#A0AEC0",
   fontPlaceholderColor: "#4A5568",
@@ -19,6 +21,7 @@ export const sizes = {
   borderRadius: 8,
 };
 
-export const POSTER_SIZES = {
+export const IMAGE_SIZES = {
   regular: { height: 225, width: 150 },
+  actor_icon: { height: 90, width: 90 },
 };

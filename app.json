@@ -1,21 +1,18 @@
 {
   "expo": {
-    "name": "cards-swipe",
-    "slug": "cards-swipe",
+    "name": "movie-cards-shared-transition",
+    "slug": "movie-cards-shared-transition",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/tmdb.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0d253f"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },

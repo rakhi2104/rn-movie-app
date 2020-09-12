@@ -1,4 +1,4 @@
-import { palette, sizes } from "../constants/theme";
+import { sizes } from "../constants/theme";
 
 const getFontSizeByVariant = (variant) => {
   switch (variant) {

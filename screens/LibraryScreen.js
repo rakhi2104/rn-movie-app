@@ -1,7 +1,7 @@
 import React from "react";
-import TextView from "../components/TextView";
-import SafeView from "../components/SafeView";
 import BoxContainer from "../components/BoxContainer";
+import SafeView from "../components/SafeView";
+import TextView from "../components/TextView";
 import { sizes } from "../constants/theme";
 
 const LibraryScreen = () => {
